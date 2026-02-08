@@ -30,7 +30,7 @@ Ao aplicar estas configurações, seu teclado terá o seguinte comportamento:
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/SEU_USUARIO/zorin-keyboard-abnt-layout.git](https://github.com/SEU_USUARIO/zorin-keyboard-abnt-layout.git)
+    git clone [https://github.com/iurimcosta/zorin-keyboard-abnt-layout.git](https://github.com/iurimcosta/zorin-keyboard-abnt-layout.git)
     cd zorin-keyboard-abnt-layout
     ```
 
