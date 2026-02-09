@@ -29,8 +29,10 @@ Ao aplicar estas configurações, seu teclado terá o seguinte comportamento:
 ## 🚀 Instalação Rápida
 
 1.  Clone este repositório:
-    git clone [https://github.com/iurimcosta/zorin-keyboard-abnt-layout.git](https://github.com/iurimcosta/zorin-keyboard-abnt-layout.git)
+    ```bash
+    git clone https://github.com/iurimcosta/zorin-keyboard-abnt-layout.git
     cd zorin-keyboard-abnt-layout
+    ```
 
 2.  Dê permissão de execução ao script e rode:
     ```bash
